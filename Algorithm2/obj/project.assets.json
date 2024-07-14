@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/Algorithm2.csproj",
+      "projectUniqueName": "/Users/ipek/Desktop/StripeIntegrationProject/.NETAlgorithmQuestions/Algorithm2/Algorithm2.csproj",
       "projectName": "Algorithm2",
-      "projectPath": "/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/Algorithm2.csproj",
+      "projectPath": "/Users/ipek/Desktop/StripeIntegrationProject/.NETAlgorithmQuestions/Algorithm2/Algorithm2.csproj",
       "packagesPath": "/Users/ipek/.nuget/packages/",
-      "outputPath": "/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/obj/",
+      "outputPath": "/Users/ipek/Desktop/StripeIntegrationProject/.NETAlgorithmQuestions/Algorithm2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ipek/.nuget/NuGet/NuGet.Config"

@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm1", "Algorithm1\Al
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm2", "Algorithm2\Algorithm2.csproj", "{711C44D2-0284-4278-8670-801B810DB390}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm3", "Algorithm3\Algorithm3.csproj", "{8CCB109A-E8E7-43A0-8FEB-D132D80389A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{711C44D2-0284-4278-8670-801B810DB390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{711C44D2-0284-4278-8670-801B810DB390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{711C44D2-0284-4278-8670-801B810DB390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCB109A-E8E7-43A0-8FEB-D132D80389A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCB109A-E8E7-43A0-8FEB-D132D80389A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCB109A-E8E7-43A0-8FEB-D132D80389A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCB109A-E8E7-43A0-8FEB-D132D80389A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
