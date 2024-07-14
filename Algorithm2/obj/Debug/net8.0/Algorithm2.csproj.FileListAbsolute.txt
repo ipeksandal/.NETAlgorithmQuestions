@@ -1,0 +1,14 @@
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/bin/Debug/net8.0/Algorithm2
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/bin/Debug/net8.0/Algorithm2.deps.json
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/bin/Debug/net8.0/Algorithm2.runtimeconfig.json
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/bin/Debug/net8.0/Algorithm2.dll
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/bin/Debug/net8.0/Algorithm2.pdb
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/obj/Debug/net8.0/Algorithm2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfoInputs.cache
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/obj/Debug/net8.0/Algorithm2.AssemblyInfo.cs
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/obj/Debug/net8.0/Algorithm2.csproj.CoreCompileInputs.cache
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/obj/Debug/net8.0/Algorithm2.dll
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/obj/Debug/net8.0/refint/Algorithm2.dll
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/obj/Debug/net8.0/Algorithm2.pdb
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/obj/Debug/net8.0/Algorithm2.genruntimeconfig.cache
+/Users/ipek/RiderProjects/AlgorithmQuestions/Algorithm2/obj/Debug/net8.0/ref/Algorithm2.dll
